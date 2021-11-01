@@ -1,0 +1,52 @@
+
+
+body {
+ 
+        background-color: rgb(17, 13, 13);
+        margin: 5px; /* espaço externo a um elemento */
+        padding: 5px;  /* espaço ao redor do conteúdo */
+    
+}
+
+
+header{
+    background-image: url(fundo_azul1.jpg);
+    margin: 10px;
+    padding: 10px;
+    background-size: cover
+    
+}
+
+
+
+.container1 {
+    height: 380px;
+    color:rgb(252, 252, 250);
+    text-align: center;
+    background-color: rgb(65, 32, 128);
+    display: flex;
+    margin: 10px;
+    padding: 30px;
+    border: 2px solid red;
+    justify-content: center;
+}
+ 
+
+.botao {
+    display: flex;
+    justify-content: center;
+}
+
+botao{
+    color: rgb(184, 184, 65);
+    text-align: center;
+    background-color: rgb(65, 32, 128);
+    margin: 10px;
+    padding: 10px;
+    justify-content: center;
+    display: flex;
+}   
+
+h5{
+    color:aquamarine
+}
